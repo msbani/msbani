@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madivalappa Bani</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">An AI/ML Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msbani&label=Profile%20views&color=0e75b6&style=flat" alt="msbani" /> </p>
 
@@ -22,7 +22,10 @@
 <a href="https://www.leetcode.com/msbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msbani" height="30" width="40" /></a>
 </p>
 
+<hr style="border: 0.5px solid #ccc; margin-top: 30px; margin-bottom: 20px;" />
 <h3 align="left">🛠️ Tools and Technologies</h3>
+<hr style="border: 0.1px solid #ccc; width: 90%; margin-top: 5px; margin-bottom: 20px;" />
+
 
 <!-- Programming Languages & Frontend -->
 <h4 align="center">💻 Programming Languages & Frontend Development</h4>
