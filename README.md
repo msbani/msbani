@@ -1,27 +1,17 @@
-<h1 align="center">Hi 👋, I'm Madivalappa Bani</h1>
-<h3 align="center">An AI/ML Software Engineer</h3>
+<h1 align="center">Hi there, I'm Madivalappa Bani! 👋</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msbani&label=Profile%20views&color=0e75b6&style=flat" alt="msbani" /> </p>
-
-- 🔭 I’m currently working on [Magic Stream Movies App](https://magic-stream-movies.vercel.app)
-
-- 🌱 I’m currently learning **Deep Learning with TensorFlow and Keras**
-
-- 🔭 I’m currently working on [Online E-Commerce Marketplace](https://marketplace-app-0rti.onrender.com)
-
-- 🔭 I’m currently working on [Weather Prediction web application](https://weather-app-asmq.onrender.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/msbani](https://github.com/msbani)
-
-- 📫 How to reach me **msbani19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madivalappa-bani-a681032aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madivalappa-bani-a681032aa" height="30" width="40" /></a>
-<a href="https://kaggle.com/banims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="banims" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/msbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msbani" height="30" width="40" /></a>
+<p align="center">
+<b>AI/ML Software Engineer!</b><br>
+🚀 Driven by a passion for transforming complex challenges into intelligent, real-world AI solutions. 🚀
 </p>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madivalappa-bani-a681032aa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msbani19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://port-eight-amber.vercel.app/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msbani&label=Profile%20views&color=0e75b6&style=flat" alt="msbani" /> </p>
+</div>
 
 ---
 
@@ -35,9 +25,9 @@
 
 **Movie Streaming App** – A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
 
-**Online Marketplace App** – E-commerce platform with product listings, communicating with buyer/seller, and real-time order tracking.
+**Online Marketplace App** – An e-commerce platform featuring product listings, real-time buyer–seller communication, and live order tracking..
 
-**Weather Prediction App** – Built to forecast current weather patterns of any city across the world.
+**Weather Prediction App** – Built to forecast real-time weather patterns for any city worldwide.
 
 **AI/ML Projects** – Implemented models for object detection, image classification, and number plate detection using OpenCV and PyTorch.
 
@@ -50,9 +40,9 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 📚 I’m also an avid reader, often diving into self-help books and inspiring novels that broaden my mindset and problem-solving perspective.
 
 ---
-<h3 align="left"></h3>
 
 ## ⚡ Tools and Technologies
+
 <div align="center">
 
 <!-- Programming Languages & Frontend -->
@@ -155,6 +145,9 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
   </a>
 </p>
 
+---
+</div>
+
 ## 🌟 Core Competencies
 
 <table>
@@ -162,18 +155,19 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 <td width="50%">
 
 ### 🎯 **Computer Vision**
-- Object Localization & Tracking 
+- Object Detection & Tracking 
 - Image Segmentation & Classification
-- Real-time Video Analytics
-- Optical Flow & Motion Analysis
-- 3D Vision & Depth Estimation
+- Model Training, Evaluation & Optimization
+- Feature Engineering & Data Preprocessing
+- Real-time Video Analysis
+
 
 </td>
 <td width="50%">
 
 ### 🧠 **Machine Learning**
-- Deep Neural Networks (CNN, RNN, Transformers)
-- Model Optimization & Quantization
+- Deep Neural Networks (CNN, Transformers)
+- Supervised & Unsupervised Learning
 - Transfer Learning & Fine-tuning
 - AutoML & Hyperparameter Tuning
 - MLOps & Production Deployment
@@ -193,12 +187,12 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 </td>
 <td width="50%">
 
-### 🏗️ **Solution Architecture**
-- Scalable AI Pipeline Design
-- Real-time Systems Architecture
-- Cloud-native AI Solutions
-- Edge Computing & Optimization
-- Data Engineering & ETL
+### 🏗️ **Full stack web application**
+- RESTful API Development & Integration
+- Secure Authentication (JWT, OAuth2)
+- Responsive UI/UX Design with React
+- Database Design & Optimization
+- Cloud Deployment with AWS, Render, Vercel
 
 </td>
 </tr>
@@ -207,18 +201,9 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 
 ---
 
-## 🌐 Professional Impact
-
-- **🏆 Award-Winning Projects**: Multiple recognition for innovative AI solutions
-- **👨‍🏫 Teaching Excellence**: Educating future AI practitioners at UTS
-- **💼 Technical Leadership**: Solution architecture for enterprise AI systems
-- **🤝 Community Contribution**: Active mentor and knowledge sharing advocate
-
----
-
 ## 📈 Learning Philosophy
 
-> *"True innovation lies in the fusion of curiosity, experimentation, and continuous learning. I strive to bridge the gap between research and real-world impact through intelligent solutions."*
+*"True innovation lies in the fusion of curiosity, experimentation, and continuous learning. I strive to bridge the gap between research and real-world impact through intelligent solutions."*
 
 ---
 
@@ -246,11 +231,26 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 - AI/ML research and development
 - Technical mentorship and knowledge sharing
 - Building full stack web applications
-- Building personal portfolio
+- Building personal portfolio website
 
 ---
 
-**🚀 Let's turn data into decisions, and ideas into intelligent realities!**
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=msbani&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbani&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbani&show_icons=true&locale=en&layout=compact" alt="msbani" /></p>
+---
+<h4 align="center">
+🚀 Let's turn data into decisions, and ideas into intelligent realities!
+</h4>
