@@ -24,7 +24,7 @@
 
 <hr style="border: 0.5px solid #ccc; margin-top: 30px; margin-bottom: 20px;" />
 <h3 align="left">🛠️ Tools and Technologies</h3>
-<hr style="border: 0.1px solid #ccc; width: 90%; margin-top: 5px; margin-bottom: 20px;" />
+<hr style="border: 0.1px solid #ccc; margin-top: 5px; margin-bottom: 20px;" />
 
 
 <!-- Programming Languages & Frontend -->
