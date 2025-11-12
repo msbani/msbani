@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madivalappa Bani</h1>
 <h3 align="center">An AI/ML Software Engineer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msbani&label=Profile%20views&color=0e75b6&style=flat" alt="msbani" /> </p>
 
 - 🔭 I’m currently working on [Magic Stream Movies App](https://magic-stream-movies.vercel.app)
@@ -22,10 +23,37 @@
 <a href="https://www.leetcode.com/msbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msbani" height="30" width="40" /></a>
 </p>
 
-<hr style="border: 0.5px solid #ccc; margin-top: 30px; margin-bottom: 20px;" />
-<h3 align="left">🛠️ Tools and Technologies</h3>
-<hr style="border: 0.1px solid #ccc; margin-top: 5px; margin-bottom: 20px;" />
+---
 
+## 🧑‍💻 About Me
+
+🎯 **AI/ML Software Engineer** passionate about building intelligent, scalable, and user-centric solutions. With over **2 years** of experience, I specialize in integrating **machine learning, full stack web applications,** and **cloud technologies** to deliver production-ready systems.
+
+💡 **Problem Solver** who bridges AI and Software Development — from designing and deploying projects to implementing AI-driven insights using **TensorFlow, PyTorch, and OpenCV**. I enjoy transforming complex challenges into seamless, high-performance applications.
+
+🚀 **Projects & Achievements**
+
+**Movie Streaming App** – A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
+
+**Online Marketplace App** – E-commerce platform with product listings, communicating with buyer/seller, and real-time order tracking.
+
+**Weather Prediction App** – Built to forecast current weather patterns of any city across the world.
+
+**AI/ML Projects** – Implemented models for object detection, image classification, and number plate detection using OpenCV and PyTorch.
+
+🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end-to-end AI deployment.
+
+🌿 **Beyond Code**
+
+🧘‍♂️ **Hobbies & Interests**
+Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enjoy yoga, cycling, swimming, running, and hiking — activities that help me recharge and stay creative.
+📚 I’m also an avid reader, often diving into self-help books and inspiring novels that broaden my mindset and problem-solving perspective.
+
+---
+<h3 align="left"></h3>
+
+## ⚡ Tools and Technologies
+<div align="center">
 
 <!-- Programming Languages & Frontend -->
 <h4 align="center">💻 Programming Languages & Frontend Development</h4>
@@ -127,5 +155,102 @@
   </a>
 </p>
 
+## 🌟 Core Competencies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbani&show_icons=true&locale=en&layout=compact" alt="msbani" /></p>
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Computer Vision**
+- Object Localization & Tracking 
+- Image Segmentation & Classification
+- Real-time Video Analytics
+- Optical Flow & Motion Analysis
+- 3D Vision & Depth Estimation
+
+</td>
+<td width="50%">
+
+### 🧠 **Machine Learning**
+- Deep Neural Networks (CNN, RNN, Transformers)
+- Model Optimization & Quantization
+- Transfer Learning & Fine-tuning
+- AutoML & Hyperparameter Tuning
+- MLOps & Production Deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 **Natural Language Processing**
+- Large Language Models (LLMs)
+- Multi-modal AI Systems
+- Text Generation & Summarization
+- Sentiment Analysis & Classification
+- RAG (Retrieval-Augmented Generation)
+
+</td>
+<td width="50%">
+
+### 🏗️ **Solution Architecture**
+- Scalable AI Pipeline Design
+- Real-time Systems Architecture
+- Cloud-native AI Solutions
+- Edge Computing & Optimization
+- Data Engineering & ETL
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## 🌐 Professional Impact
+
+- **🏆 Award-Winning Projects**: Multiple recognition for innovative AI solutions
+- **👨‍🏫 Teaching Excellence**: Educating future AI practitioners at UTS
+- **💼 Technical Leadership**: Solution architecture for enterprise AI systems
+- **🤝 Community Contribution**: Active mentor and knowledge sharing advocate
+
+---
+
+## 📈 Learning Philosophy
+
+> *"True innovation lies in the fusion of curiosity, experimentation, and continuous learning. I strive to bridge the gap between research and real-world impact through intelligent solutions."*
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/madivalappa-bani-a681032aa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:msbani19@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/msbani" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://port-eight-amber.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-View-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+<div align="left">
+
+**💬 Open to collaboration on:**
+- Computer Vision & Video Analytics projects
+- AI/ML research and development
+- Technical mentorship and knowledge sharing
+- Building full stack web applications
+- Building personal portfolio
+
+---
+
+**🚀 Let's turn data into decisions, and ideas into intelligent realities!**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msbani&show_icons=true&locale=en&layout=compact" alt="msbani" /></p>
