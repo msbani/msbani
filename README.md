@@ -150,7 +150,7 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 
 ## 🌟 Core Competencies
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -203,7 +203,7 @@ Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enj
 
 ## 📈 Learning Philosophy
 
-*"True innovation lies in the fusion of curiosity, experimentation, and continuous learning. I strive to bridge the gap between research and real-world impact through intelligent solutions."*
+> *"True innovation lies in the fusion of curiosity, experimentation, and continuous learning. I strive to bridge the gap between research and real-world impact through intelligent solutions."*
 
 ---
 
