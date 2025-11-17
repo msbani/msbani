@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>AI/ML Software Engineer!</b><br>
-🚀 Driven by a passion for transforming complex challenges into intelligent, real-world AI solutions. 🚀
+🚀 Driven by a passion for transforming complex challenges into intelligent, real world AI solutions. 🚀
 </p>
 
 <div align="center">
@@ -17,27 +17,27 @@
 
 ## 🧑‍💻 About Me
 
-🎯 **AI/ML Software Engineer** passionate about building intelligent, scalable, and user-centric solutions. With over **2 years** of experience, I specialize in integrating **machine learning, full stack web applications,** and **cloud technologies** to deliver production-ready systems.
+🎯 **AI/ML Software Engineer** passionate about building intelligent, scalable, and user centric solutions. I am specialized in integrating **machine learning, full stack web applications,** and **cloud technologies** to deliver production ready systems.
 
-💡 **Problem Solver** who bridges AI and Software Development — from designing and deploying projects to implementing AI-driven insights using **TensorFlow, PyTorch, and OpenCV**. I enjoy transforming complex challenges into seamless, high-performance applications.
+💡 **Problem Solver** who bridges AI and Software Development from designing and deploying projects to implementing AI driven insights using **TensorFlow, PyTorch, and OpenCV**. I enjoy transforming complex challenges into seamless, high-performance applications.
 
 🚀 **Projects & Achievements**
 
 **Movie Streaming App** – A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
 
-**Online Marketplace App** – An e-commerce platform featuring product listings, real-time buyer–seller communication, and live order tracking..
+**Online Marketplace App** – An e-commerce platform featuring product listings, real time buyer–seller communication, and live order tracking..
 
 **Weather Prediction App** – Built to forecast real-time weather patterns for any city worldwide.
 
 **AI/ML Projects** – Implemented models for object detection, image classification, and number plate detection using OpenCV and PyTorch.
 
-🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end-to-end AI deployment.
+🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end to end AI deployment.
 
 🌿 **Beyond Code**
 
 🧘‍♂️ **Hobbies & Interests**
-Outside of work - I focus on maintaining a balanced and mindful lifestyle. I enjoy yoga, cycling, swimming, running, and hiking — activities that help me recharge and stay creative.
-📚 I’m also an avid reader, often diving into self-help books and inspiring novels that broaden my mindset and problem-solving perspective.
+Outside of work I focus on maintaining a balanced and mindful lifestyle. I enjoy yoga, cycling, swimming, running, and hiking activities that help me recharge and stay creative.
+📚 I’m also an avid reader, often diving into self help books and inspiring novels that broaden my mindset and problem solving perspective.
 
 ---
 
