@@ -23,17 +23,17 @@
 
 🚀 **Projects & Achievements**
 
-**Animal Image Classification**: Developed a machine learning model using PyTorch to classify animal images into three distinct categories Panda, Cat, and Dog. The model leverages deep learning techniques for   feature extraction and image classification, providing accurate predictions across multiple image inputs.
+**[Animal Image Classification](https://github.com/msbani/Image-classification)**: Developed a machine learning model using PyTorch to classify animal images into three distinct categories Panda, Cat, and Dog. The model leverages deep learning techniques for   feature extraction and image classification, providing accurate predictions across multiple image inputs.
 
-**Object Detection and Tracking**: Demonstrated a simple and efficient method to detect and track a soccer ball in a video using classic computer vision techniques
+**[Object Detection and Tracking](https://github.com/msbani/detection-and-tracking)**: Demonstrated a simple and efficient method to detect and track a soccer ball in a video using classic computer vision techniques
 
-**Document Scanner**: The scanner detects the four corner points of a document using edge detection and contour approximation, then applies a perspective transformation to generate a top down, flattened, and enhanced version of the scanned document.
+**[Document Scanner](https://github.com/msbani/document-scanner)**: The scanner detects the four corner points of a document using edge detection and contour approximation, then applies a perspective transformation to generate a top down, flattened, and enhanced version of the scanned document.
 
-**Movie Streaming App**: A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
+**[Movie Streaming App](https://github.com/msbani/MagicStreamMovies)**: A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
 
-**Online Marketplace App**: An e-commerce platform featuring product listings, real time buyer, seller communication, and live order tracking.
+**[Marketplace App](https://github.com/msbani/Marketplace-App)**: An e-commerce platform featuring product listings, real time buyer, seller communication, and live order tracking.
 
-**Weather Prediction App**: Built to forecast real-time weather patterns for any city worldwide.
+**[Weather Prediction App](https://github.com/msbani/weather-app)**: Built to forecast real-time weather patterns for any city worldwide.
 
 🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end to end AI deployment.
 
