@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madivalappa-bani-a681032aa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msbani19@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://port-eight-amber.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://1drv.ms/b/c/2d0d9d4d728400d0/EUZ7qrJrLI5Ph77dw4WCK9wBZ9rL3ACfC90vj9MIC4rUoA?e=aikqcK)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://1drv.ms/b/c/2d0d9d4d728400d0/ESxoCc3ljR9JtEFqAUyDSjMBnmExiPwNi9_5WFpJCUQDlg?e=4kbCNP)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msbani&label=Profile%20views&color=0e75b6&style=flat" alt="msbani" /> </p>
 </div>
 
