@@ -26,15 +26,15 @@
 
 **[Animal Image Classification](https://github.com/msbani/Image-classification)**: Developed a machine learning model using PyTorch to classify animal images into three distinct categories Panda, Cat, and Dog. The model leverages deep learning techniques for   feature extraction and image classification, providing accurate predictions across multiple image inputs.
 
-**[Object Detection and Tracking](https://github.com/msbani/detection-and-tracking)**: Demonstrated a simple and efficient method to detect and track a soccer ball in a video using classic computer vision techniques
+**[Object Detection and Tracking](https://github.com/msbani/detection-and-tracking)**: Demonstrates a simple and efficient method to detect and track a soccer ball in a video using classic computer vision techniques color filtering, Hough Circle Transform, and OpenCV’s MOSSE tracker.
 
 **[Document Scanner](https://github.com/msbani/document-scanner)**: The scanner detects the four corner points of a document using edge detection and contour approximation, then applies a perspective transformation to generate a top down, flattened, and enhanced version of the scanned document.
 
-**[Movie Streaming App](https://github.com/msbani/MagicStreamMovies)**: A responsive full-stack web application with user authentication, content filtering, and smooth streaming experience.
+**[Movie Streaming App](https://github.com/msbani/MagicStreamMovies)**: A full stack web application providing movie streaming and recommendations, featuring user authentication, personalized experiences, and AI enhanced review ranking. The project leverages a React frontend (Vite + React Bootstrap UI) and a Go backend (Gin + MongoDB), with robust JWT based authentication and OpenAI powered review sentiment analysis.
 
-**[Marketplace App](https://github.com/msbani/Marketplace-App)**: An e-commerce platform featuring product listings, real time buyer, seller communication, and live order tracking.
+**[Marketplace App](https://github.com/msbani/Marketplace-App)**: a Django based web application that allows users to list items for sale, browse categories, and engage in conversations related to items. It features user authentication, item management, messaging, and a dashboard to track user listings.
 
-**[Weather Prediction App](https://github.com/msbani/weather-app)**: Built to forecast real-time weather patterns for any city worldwide.
+**[Weather Prediction App](https://github.com/msbani/weather-app)**: Built to get real time weather conditions for any city using the OpenWeatherMap API. This web app is built with Flask and served using Waitress. You can run it locally or deploy it on any standard server.
 
 🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end to end AI deployment.
 
