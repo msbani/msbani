@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Madivalappa Bani! 👋</h1>
 
 <p align="center">
-<b>AI/ML Software Engineer!</b><br>
+<b>AI & ML Software Engineer!</b><br>
 🚀 Building AI systems that reduce manual effort, accelerate decisions, and deliver measurable results. 🚀
 </p>
 
