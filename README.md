@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Madivalappa Bani! 👋</h1>
 
 <p align="center">
-<b>AI & ML Software Engineer!</b><br>
+<b>Software Engineer!</b><br>
 🚀 Building AI systems that reduce manual effort, accelerate decisions, and deliver measurable results. 🚀
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-🎯 **AI & ML Software Engineer** passionate about building intelligent, scalable, and user centric solutions. I am specialized in integrating **machine learning, full stack web applications,** and **cloud technologies** to deliver production ready systems.
+🎯 **Software Engineer** passionate about building intelligent, scalable, and user centric solutions. I am specialized in integrating **machine learning, full stack web applications,** and **cloud technologies** to deliver production ready systems.
 
 💡 **Problem Solver** who bridges AI and Software Development from designing and deploying projects to implementing AI driven insights using **TensorFlow, PyTorch, and OpenCV**. I enjoy transforming complex challenges into seamless, high-performance applications.
 
