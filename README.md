@@ -36,8 +36,7 @@
 **[QR Code Generator App](https://github.com/msbani/qr-code-generator)**: A production-ready Flask-based REST API that generates QR codes for validated URLs. The application includes input validation, rate limiting, automated testing, Dockerization, and CI safeguards to ensure reliability and safe deployment.
 
 **[Weather Prediction App](https://github.com/msbani/weather-app)**: Built to get real time weather conditions for any city using the OpenWeatherMap API. This web app is built with Flask and served using Waitress. You can run it locally or deploy it on any standard server.
-
-🌱 Currently exploring **Agentic AI and MLOps workflows** to push the boundaries of end to end AI deployment.
+** to push the boundaries of end to end AI deployment.
 
 🌿 **Beyond Code**
 
